@@ -4,6 +4,7 @@ Thank you for download Arc_compresser!
 
 Can you see how to use and beware to use. Please see all.
 
+This program executes compress.bat/ntcompress.exe, converts the file name, etc., and saves it.
 
 ## ～How to use～
 The program can process multiple .arc files.
