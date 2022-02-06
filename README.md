@@ -77,9 +77,11 @@ If you have any corrections or improvements to the program, please contact us.
 If you have any other questions, please contact us.
 
 Program name: Arc_compressor
+
 Author: Hz
 
 Contact: スターかる@star_karu_SKC (proxy)
+
 This will be passed on to the author.
 
 Copyright © 2022 Hz
