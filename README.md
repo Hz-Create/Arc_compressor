@@ -48,9 +48,6 @@ If an error occurs, please refer to this page for the solution. If the problem p
 file not found. ERROR:
 Please make sure that compress.bat and ntcompress.exe are in the folder.
 
-
-
-
 .arc.LH file already there. Also replace failed:
 
 Please empty the Outputs folder.
