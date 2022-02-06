@@ -83,7 +83,6 @@ Unnecessary files delete failed.:
 作者: Hz
 
 連絡先:スターかる@star_karu_SKC (代理人）
-
 作者に伝わります。
 
 copyright© 2022 Hz
