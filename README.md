@@ -40,7 +40,9 @@ Unnecessary files deleted --- This means that unnecessary *_LH.bin or *_LH_LH.bi
 Unnecessary files delete failed. ERROR --- It means that deletion of unnecessary *_LH.bin or *_LH_LH.bin failed. This is an error.
 
 
-pless enter key --- This means that the process has finished. Please press the Enter key to exit the program.
+successfully -- means that all processing has been completed.
+
+press enter key --- To exit the program, press the enter key.
 
 ## ～What to do～
 
