@@ -41,7 +41,7 @@ Unnecessary files delete failed. ERROR --- 不要な*_LH.binや*_LH_LH.binの削
 
 successfully -- すべての処理が完了したことを意味します。
 
-press enter key --- エンターキーを押してプログラムを終了されてください。
+press enter key --- エンターキーを押してプログラムを終了してください。
 
 ## ～対処～
 
